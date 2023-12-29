@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net8.0/publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/0333cdeb-c0ac-4e67-9a2e-a3c1fe3f2113/resourceGroups/duvalwebapptestrg/providers/Microsoft.Web/sites/duvalwebapptest"
+}
